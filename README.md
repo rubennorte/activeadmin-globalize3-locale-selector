@@ -50,3 +50,5 @@ Examples:
 3. Commit your changes (`git commit -am 'Added some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create new Pull Request
+
+[![githalytics.com alpha](https://cruel-carlota.pagodabox.com/f908a159fab5a072efc2adeee4bfd29b "githalytics.com")](http://githalytics.com/rubennorte/activeadmin-globalize3-locale-selector)
