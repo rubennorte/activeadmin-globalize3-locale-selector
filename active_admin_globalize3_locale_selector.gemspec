@@ -7,7 +7,8 @@ Gem::Specification.new do |gem|
   gem.description   = %q{Active Admin Globalize3 Locale Selector}
   gem.summary       = %q{This gem adds controls to change the locale used by Globalize3 in Active Admin views. It allows you to see the content in the specified locale while keeping the admin interface in your preferred locale.}
   gem.homepage      = "http://github.com/rubennorte/activeadmin-globalize3-locale-selector"
-
+  gem.license       = "MIT"
+  
   gem.files         = `git ls-files`.split($\)
   gem.executables   = gem.files.grep(%r{^bin/}).map{ |f| File.basename(f) }
   gem.test_files    = gem.files.grep(%r{^(test|spec|features)/})
